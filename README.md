@@ -7,9 +7,6 @@ The goals is to write the bulk of the code in julia.
 
 The code thus far is very limited (see fea/).  We have
  - some [signal processing](https://github.com/davidavdav/SignalProcessing)
- - some feature extraction
- - [Gaussian Mixture Modeling](gmm/) (diagonal covariance)
-=======
  - some [feature extraction](https://github.com/davidavdav/MFCCs) using Dan Ellis's [rastamat](https://github.com/davidavdav/Rasta)
  - diagonal covariance [Gaussian Mixture Modeling](https://github.com/davidavdav/GMMs)
 
